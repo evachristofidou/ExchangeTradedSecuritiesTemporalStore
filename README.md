@@ -2,7 +2,6 @@
 
 An implementation of a read-biased in-memory temporal data store in Java, that allows point-in-time queries about data, <br>
 which can be the price of an exchange traded security. <br>
-
 We can query the temporal store to determine at any given time what the most recently captured price was during a trading day.
 
 #### Example Interaction
